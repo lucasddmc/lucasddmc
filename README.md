@@ -1,4 +1,5 @@
-<h3 align="center">I'm Lucas, A passionate Computer Science student at the Federal University of Pernambuco</h3>
+<h1>Hello!</h1>
+<h3 align="center">I'm Lucas, a passionate Computer Science student at the Federal University of Pernambuco</h3>
 
 - 🔭 I’m currently working on a model to detect and understand LIBRAS [Hand Detection](https://github.com/lucasddmc/hand_detection)
 
